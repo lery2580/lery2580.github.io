@@ -1,0 +1,18 @@
+body{
+    background-image: url(bgpic.jpg);
+
+    padding: 80px;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 108px;
+}
+
+button{
+    font-size: 24px;
+    padding: 16px 32px 16px 32px;
+ 
+}
+
